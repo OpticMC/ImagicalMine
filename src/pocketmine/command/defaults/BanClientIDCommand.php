@@ -95,3 +95,4 @@ class BanClientIDCommand extends VanillaCommand
         //return true;
     }
 }
+
